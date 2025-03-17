@@ -18,21 +18,10 @@ O nome será adicionado à lista de amigos.
 Clique no botão "Sortear".
 Um nome será sorteado aleatoriamente da lista e exibido na tela.
 * A lista de amigos será limpa automaticamente.
-# Estrutura do Código 💻
-O código é dividido em três funções principais:
-
-* adicionarAmigo():
-
-Adiciona o nome digitado à lista de amigos.
-Atualiza a lista exibida na tela.
-* atualizarlista():
-
+  
 Limpa a lista atual e exibe todos os nomes adicionados.
-* sortearAmigo():
 
-Sorteia um nome aleatório da lista.
-Exibe o nome sorteado e limpa a lista para um novo ciclo.
 # Tecnologias Utilizadas 🛠️
-HTML: Estrutura da página.
-CSS: Estilização da interface.
-JavaScript: Lógica para adicionar, listar e sortear amigos.
+* HTML: Estrutura da página.
+* CSS: Estilização da interface.
+* JavaScript: Lógica para adicionar, listar e sortear amigos.
